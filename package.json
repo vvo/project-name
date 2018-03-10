@@ -1,0 +1,37 @@
+{
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "doctoc": "doctoc --maxlevel 2 README.md .github/CONTRIBUTING.md",
+    "test": "npm run lint",
+    "lint": "eslint .",
+    "lint:fix": "npm run lint -- --fix",
+    "release": "lerna publish --exact --conventional-commits",
+    "dev": "",
+    "start": ""
+  },
+  "dependencies": {
+    "babel-eslint": "8.2.2",
+    "eslint": "4.18.2",
+    "eslint-config-algolia": "13.1.0",
+    "eslint-config-prettier": "2.9.0",
+    "eslint-plugin-import": "2.9.0",
+    "eslint-plugin-prettier": "2.6.0",
+    "lerna": "2.9.0",
+    "prettier": "1.11.1"
+  },
+  "workspaces": [
+    "src/*"
+  ],
+  "renovate": {
+    "extends": [
+      "config:js-app",
+      "algolia"
+    ]
+  },
+  "eslintConfig": {
+    "extends": [
+      "algolia"
+    ]
+  }
+}

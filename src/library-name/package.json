@@ -1,0 +1,14 @@
+{
+  "name": "library-name",
+  "description": "📕 description",
+  "version": "1.0.1",
+  "license": "MIT",
+  "repository": "vvo/library-name",
+  "main": "src/index.js",
+  "dependencies": {
+
+  },
+  "keywords": [
+    "keyword"
+  ]
+}
