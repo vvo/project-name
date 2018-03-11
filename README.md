@@ -10,7 +10,6 @@
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Getting a token](#getting-a-token)
 - [Contributing](#contributing)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

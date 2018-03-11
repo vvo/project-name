@@ -6,6 +6,9 @@
 
 - [Requirements](#requirements)
 - [Development](#development)
+- [Example or web UI](#example-or-web-ui)
+- [Releases](#releases)
+- [Other scripts](#other-scripts)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
