@@ -35,7 +35,7 @@ See [CONTRIBUTING](./.github/CONTRIBUTING.md).
 [travis-url]: https://travis-ci.org/vvo/project-name
 [license-image]: https://img.shields.io/badge/license-MIT-green.svg?style=flat-square
 [license-url]: LICENSE
-[downloads-image]: https://img.shields.io/npm/dm/project-name.svg?style=flat-square
-[downloads-url]: http://npm-stat.com/charts.html?package=project-name
-[version-svg]: https://img.shields.io/npm/v/project-name.svg?style=flat-square
-[package-url]: https://yarnpkg.com/en/package/project-name
+[downloads-image]: https://img.shields.io/npm/dm/public-module.svg?style=flat-square
+[downloads-url]: http://npm-stat.com/charts.html?package=public-module
+[version-svg]: https://img.shields.io/npm/v/public-module.svg?style=flat-square
+[package-url]: https://yarnpkg.com/en/package/public-module
