@@ -1,0 +1,14 @@
+{
+  "name": "public-module",
+  "description": "📕 description",
+  "version": "0.0.1",
+  "license": "MIT",
+  "repository": "vvo/project-name",
+  "main": "src/index.js",
+  "dependencies": {
+    "private-module": "0.0.1"
+  },
+  "keywords": [
+    "keyword"
+  ]
+}

@@ -1,4 +1,4 @@
-# 📕 library-name
+# 📕 project-name
 
 > description
 
@@ -18,25 +18,25 @@
 ## Installation
 
 ```sh
-npm install library-name
-# yarn add library-name
+npm install project-name
+# yarn add project-name
 ```
 
 ## Usage
 
 ```js
-import libraryName from 'library-name';
+import publicModule from 'public-module';
 ```
 
 ## Contributing
 
 See [CONTRIBUTING](./.github/CONTRIBUTING.md).
 
-[travis-svg]: https://img.shields.io/travis/vvo/library-name/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/vvo/library-name
+[travis-svg]: https://img.shields.io/travis/vvo/project-name/master.svg?style=flat-square
+[travis-url]: https://travis-ci.org/vvo/project-name
 [license-image]: https://img.shields.io/badge/license-MIT-green.svg?style=flat-square
 [license-url]: LICENSE
-[downloads-image]: https://img.shields.io/npm/dm/library-name.svg?style=flat-square
-[downloads-url]: http://npm-stat.com/charts.html?package=library-name
-[version-svg]: https://img.shields.io/npm/v/library-name.svg?style=flat-square
-[package-url]: https://yarnpkg.com/en/package/library-name
+[downloads-image]: https://img.shields.io/npm/dm/project-name.svg?style=flat-square
+[downloads-url]: http://npm-stat.com/charts.html?package=project-name
+[version-svg]: https://img.shields.io/npm/v/project-name.svg?style=flat-square
+[package-url]: https://yarnpkg.com/en/package/project-name
