@@ -1,7 +1,7 @@
 {
   "name": "public-module",
   "description": "📕 description",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "license": "MIT",
   "repository": "vvo/project-name",
   "main": "src/index.js",
