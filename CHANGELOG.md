@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="2.2.0"></a>
+# [2.2.0](https://github.com/vvo/project-name/compare/v2.1.0...v2.2.0) (2018-03-16)
+
+
+### Features
+
+* **public:** change ([840fba9](https://github.com/vvo/project-name/commit/840fba9))
+
+
+
+
 <a name="2.1.0"></a>
 # [2.1.0](https://github.com/vvo/project-name/compare/v2.0.0...v2.1.0) (2018-03-15)
 
