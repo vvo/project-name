@@ -19,7 +19,7 @@
     "eslint-config-prettier": "2.10.0",
     "eslint-plugin-import": "2.16.0",
     "eslint-plugin-prettier": "2.7.0",
-    "lerna": "2.11.0",
+    "lerna": "3.13.1",
     "prettier": "1.16.4"
   },
   "workspaces": [
